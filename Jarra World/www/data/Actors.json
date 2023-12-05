@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jarrad","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"bel","characterIndex":0,"characterName":"Bel","classId":3,"equips":[3,0,0,0,0],"faceIndex":0,"faceName":"Bel","traits":[],"initialLevel":1,"maxLevel":99,"name":"Bel","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Mike","characterIndex":0,"characterName":"mike","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"mike","traits":[],"initialLevel":1,"maxLevel":99,"name":"Micheal","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"dan","characterIndex":0,"characterName":"Dan","classId":2,"equips":[2,0,0,0,0],"faceIndex":0,"faceName":"Dan","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dan","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"adam","characterIndex":0,"characterName":"Adam","classId":2,"equips":[2,0,0,0,0],"faceIndex":0,"faceName":"Adam","traits":[],"initialLevel":1,"maxLevel":99,"name":"Adam","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"lenz","characterIndex":0,"characterName":"lenz","classId":4,"equips":[4,0,0,0,0],"faceIndex":0,"faceName":"lenz","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lenz","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"danni","characterIndex":0,"characterName":"Danni","classId":3,"equips":[3,0,0,0,0],"faceIndex":2,"faceName":"Danni","traits":[],"initialLevel":1,"maxLevel":99,"name":"Danni","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"tracy","characterIndex":0,"characterName":"Tracy","classId":4,"equips":[4,0,0,0,0],"faceIndex":0,"faceName":"Tracy","traits":[],"initialLevel":3,"maxLevel":99,"name":"Tracy","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"frank","characterIndex":0,"characterName":"Frank","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"frank","traits":[],"initialLevel":3,"maxLevel":99,"name":"Frank","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"lenzdad","characterIndex":0,"characterName":"Lenzdad","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"LenzDad","traits":[],"initialLevel":3,"maxLevel":99,"name":"Ma shu shu","nickname":"","note":"","profile":""}
+]
